@@ -1,7 +1,7 @@
 {
   "productName": "PPet3",
   "artifactName": "PPet3-${version}.${ext}",
-  "appId": "com.zenghongtu.ppet-v3",
+  "appId": "com.yiranzai.ppet-v3",
   "asar": true,
   "files": ["dist", "package.json", "static/**/*"],
   "mac": {
@@ -67,7 +67,7 @@
   "publish": [
     {
       "provider": "github",
-      "owner": "zenghongtu",
+      "owner": "yiranzai",
       "repo": "PPet"
     }
   ],
